@@ -4,7 +4,7 @@
 
 <hr>
 
-### Project Status: <span style="color: #3455c9"><strong>Under Development</strong></span>
+### Project Status: <span>Under Development</span>
 
 - The images shown in the repository are not final.  
 - The site is currently being developed and tested on [CodeSandbox](https://codesandbox.io/).  
