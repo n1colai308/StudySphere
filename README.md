@@ -1,6 +1,6 @@
 <h1 align="center">StudySphere</h1>
 
-<p align="center">An application that lets you create study sets for free. Quizlet now costs money to even study so this is a solution. StudySphere will have quick learn and flashcards.</p>
+<p align="center">An application that lets you create study sets for free. Quizlet now makes you pay to study on their site so this is a solution with quizlet-like ui. StudySphere will have quick learn and flashcards.</p>
 
 <hr>
 
